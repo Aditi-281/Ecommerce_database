@@ -1,6 +1,6 @@
 # Madhav Ecommerce Sales Dashboard
 
-![Madhav Ecommerce Sales Dashboard](images\ecommerce_database.jpeg)
+![Madhav Ecommerce Sales Dashboard](./images/ecommerce_database.jpeg)
 
 ## Dashboard Overview
 - Total Quantity Sold: 1,409 units
